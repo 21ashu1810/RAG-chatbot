@@ -204,7 +204,7 @@ def chat():
 
 
 if __name__ == "__main__":
-    hf_token = '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'  
+    hf_token = 'Hugging face api key'  
     authenticate_huggingface(hf_token)
     
     
